@@ -1,1 +1,3 @@
 this is the file inside the git_test repo
+a new line
+this is another line
